@@ -55,6 +55,8 @@ https://skoleadmin.examcookie.dk/Login.aspx?ReturnUrl=%2f
 
 https://examcookieclientui.azurewebsites.net/manlogin.html
 
+https://examcookieclientui.azurewebsites.net/systest.html
+
 https://examcookiebackenddk.azurewebsites.net/
 
 https://examcookiestudend.azurewebsites.net/Login.aspx
