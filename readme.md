@@ -52,12 +52,19 @@ public static Void RunCommand(String command, String arguments, Boolean permanen
 
 ## Links
 https://skoleadmin.examcookie.dk/Login.aspx?ReturnUrl=%2f
+
 https://examcookieclientui.azurewebsites.net/manlogin.html
+
 https://examcookiebackenddk.azurewebsites.net/
+
 https://examcookiestudend.azurewebsites.net/Login.aspx
+
 https://examcookiewinapidk.azurewebsites.net/ExamApiV3.svc
 
 https://github.com/vmcall/ayyxam
+
 https://secret.club/2019/05/16/exam-surveillance2.html
+
 https://secret.club/2019/03/07/exam-surveillance.html
+
 https://secret.club/2019/05/16/exam-surveillance2.html#data-security
